@@ -27,7 +27,7 @@
   "homepage": "https://github.com/otiai10/chomex#readme",
   "devDependencies": {
     "@types/chai": "^4.1.2",
-    "@types/jest": "^25.1.5",
+    "@types/jest": "^26.0.20",
     "@types/should": "^13.0.0",
     "chai": "^4.1.2",
     "coffee-script": "^1.12.7",
