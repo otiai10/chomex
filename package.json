@@ -13,7 +13,8 @@
     "build": "rm -rf ./lib && tsc -p ./tsconfig.json",
     "release": "./node_modules/.bin/coffee ./scripts/release.coffee",
     "test": "tslint ./src/**/*.ts && tslint ./tests/**/*.ts && jest",
-    "ci": "npm run test -- --coverage && cat ./coverage/lcov.info | coveralls"
+    "ci": "npm run test -- --coverage && cat ./coverage/lcov.info | coveralls",
+    "prepare": "npm run build"
   },
   "repository": "https://github.com/otiai10/chomex.git",
   "keywords": [
