@@ -4,6 +4,10 @@
   "description": "Chrome Extension Routing Kit",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "engines": {
+    "node": "^20.15.0",
+    "npm": "^10.7.0"
+  },
   "files": [
     "lib",
     "src"
