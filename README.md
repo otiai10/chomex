@@ -1,3 +1,10 @@
+# :warning: This project is transfered to [`chromite`](https://github.com/otiai10/chromite) and [`jstorm`](https://github.com/otiai10/jstorm) :warning:
+
+* Chrome Messaging Kit (`Router`, `Client`) => [`chromite`](https://github.com/otiai10/chromite)
+* Chrome Storage (and LocalStorage) ORM => [`jstorm`](https://github.com/otiai10/jstorm) 
+
+--------------
+
 chomex
 ========
 
